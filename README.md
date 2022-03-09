@@ -11,4 +11,5 @@
 
 6.Finish and you can find your file (requirements.txt) inside the folder.
 
-NT KAWAN
+
+🥰
